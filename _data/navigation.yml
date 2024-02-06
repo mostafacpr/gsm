@@ -1,6 +1,6 @@
 main:
   - title: "HiddifyNext"
-    url: /posts/
+    url: /pages/welcome-to-jekyll/
   - title: "Myvpn"
     url: /categories/
   - title: "Connectix"
