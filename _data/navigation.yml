@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "HiddifyNext"
     url: /posts/
-  - title: "Categories"
+  - title: "Myvpn"
     url: /categories/
-  - title: "Tags"
+  - title: "Connectix"
     url: /tags/
   - title: "About"
     url: /about/
